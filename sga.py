@@ -11,8 +11,8 @@ from mutation.mutation import mutation
 N=200
 V=2
 nbits=(17, 17)
-maxBinVal=(-5, -5)
-minBinVal=(5, 5)
+minBinVal=(-5, -5)
+maxBinVal=(5, 5)
 population=[]
 population_real=[]
 alfa=0.9
